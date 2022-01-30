@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://127.0.0.1:4000/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/contact/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/contact/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/projects/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/projects/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/publications/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/publications/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/sitemap/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/sitemap/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/teaching/</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/teaching/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/files/Maha_Resume_.pdf</loc>
+<loc>https://maha-93.github.io/mahalakshmis.github.io/files/Maha_Resume_.pdf</loc>
 <lastmod>2022-01-30T09:51:21-08:00</lastmod>
 </url>
 </urlset>
