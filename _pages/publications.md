@@ -7,7 +7,7 @@ author_profile: true
 
 * <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
-_(To appear) International Conference on Learning Representations 2022 (ICLR 2022)_ <br>
+_International Conference on Learning Representations 2022 (ICLR 2022)_ <br>
 [[arxiv]](https://arxiv.org/abs/2110.02722) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
 
 * **Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted
