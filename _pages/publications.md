@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+* (To Appear) **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
+_MLG workshop at European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases  (ECML PKDD 2022)_ <br>
+[[arxiv]](https://arxiv.org/abs/2110.04060)
+
 * <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
 _International Conference on Learning Representations 2022 (ICLR 2022)_ <br>
@@ -25,10 +30,6 @@ Hopper Celebration India (GHCI) 2016_ <br>
 
 Preprints
 ====
-
-* **New Insights into Graph Convolutional Networks using Neural Tangent Kernels** <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
-[[arxiv]](https://arxiv.org/abs/2110.04060)
 
 * **Machine learning-based image detection for lensless microscopy in life science** <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik </span><br>
