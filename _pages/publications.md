@@ -4,15 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* (To Appear) **Improved Representation Learning Through Tensorized Autoencoders** <br> 
+<span style="color:gray;"> Pascal Esser*, Satyaki Mukherjee*, **Mahalakshmi Sabanayagam***, Debarghya Ghoshdastidar </span><br>
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 <br>
+[[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder)
 
-* (To Appear) **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** <br>
+* **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
 _MLG workshop at European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases  (ECML PKDD 2022)_ <br>
 [[arxiv]](https://arxiv.org/abs/2110.04060)
 
 * <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
-_International Conference on Learning Representations 2022 (ICLR 2022)_ <br>
+_International Conference on Learning Representations (ICLR) 2022_ <br>
 [[arxiv]](https://arxiv.org/abs/2110.02722) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
 
 * **Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted
@@ -30,7 +34,9 @@ Hopper Celebration India (GHCI) 2016_ <br>
 
 Preprints
 ====
-
+* **Representation Power of Graph Convolutions : Neural Tangent Kernel Analysis** <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
+[[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
 * **Machine learning-based image detection for lensless microscopy in life science** <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik </span><br>
 [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
