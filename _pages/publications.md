@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Improved Representation Learning Through Tensorized Autoencoders** [[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder) <br> 
+* **Improved Representation Learning Through Tensorized Autoencoders** [[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/aistats23_tae_poster.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder) <br> 
 <span style="color:gray;"> Pascal Esser\*, Satyaki Mukherjee\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar </span><br>
 _International Conference on Artificial Intelligence and Statistics (AISTATS) 2023_
 
@@ -12,7 +12,7 @@ _International Conference on Artificial Intelligence and Statistics (AISTATS) 20
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
 _MLG workshop at European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases  (ECML PKDD 2022)_ 
 
-* <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> [[arxiv]](https://arxiv.org/abs/2110.02722) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
+* <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> [[arxiv]](https://arxiv.org/abs/2110.02722) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr22_graphon_poster.pdf) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
 _International Conference on Learning Representations (ICLR) 2022_
