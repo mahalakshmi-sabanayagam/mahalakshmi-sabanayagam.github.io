@@ -19,11 +19,11 @@ _International Conference on Learning Representations (ICLR) 2022_
 
 * **Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted
 Boosting Ensemble Method** [[springer]](https://link.springer.com/article/10.1007/s00500-019-04167-0)  <br>
-<span style="color:gray;"> Sivasankar E, Selvi C, **Mahalakshmi S** </span> <br>
+<span style="color:gray;"> Sivasankar Elango, Selvi Chandran, **Mahalakshmi Sabanayagam** </span> <br>
 _Journal of Soft Computing 2019_
 
 * **Cross Domain Sentiment Analysis Using Different Machine Learning Techniques** [[springer]](https://link.springer.com/chapter/10.1007/978-3-319-27212-2_7) <br>
-<span style="color:gray;"> **Mahalakshmi S**, Sivasankar E </span> <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Sivasankar Elango </span> <br>
 _Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015 and as poster in Grace
 Hopper Celebration India (GHCI) 2016_
 
