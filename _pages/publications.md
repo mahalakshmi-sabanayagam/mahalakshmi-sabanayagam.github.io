@@ -30,16 +30,20 @@ Hopper Celebration India (GHCI) 2016_
 
 Preprints
 ====
-* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens\*, Urte Adomaityte, Anna Dawid </span><br>
 
-* **Representation Power of Graph Convolutions : Neural Tangent Kernel Analysis** [[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
+* **Analysis of Convolutions, Non-linearity and Depth in
+Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
 
-* **Fast Adaptive Test-Time Defense with Robust Features** <br>
-<span style="color:gray;"> Anurag Singh, **Mahalakshmi Sabanayagam**, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
+* **Fast Adaptive Test-Time Defense with Robust Features** [[arxiv]]() <br>
+<span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
 
+* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens\*, Urte Adomaityte, Anna Dawid </span><br>
+
+* **Kernels, Data \& Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
+<span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
 
 * **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
  <br>
