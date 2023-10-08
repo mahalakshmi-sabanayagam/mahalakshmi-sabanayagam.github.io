@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Analysis of Convolutions, Non-linearity and Depth in
+Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
+ <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
+_Transactions on Machine Learning Research (TMLR) 2023_
+
 * **Improved Representation Learning Through Tensorized Autoencoders** [[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/aistats23_tae_poster.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder) <br> 
 <span style="color:gray;"> Pascal Esser\*, Satyaki Mukherjee\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar </span><br>
 _International Conference on Artificial Intelligence and Statistics (AISTATS) 2023_
@@ -31,12 +37,7 @@ Hopper Celebration India (GHCI) 2016_
 Preprints
 ====
 
-* **Analysis of Convolutions, Non-linearity and Depth in
-Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
- <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
-
-* **Fast Adaptive Test-Time Defense with Robust Features** [[arxiv]]() <br>
+* **Robust Features Inference: A Test-time Defense using Spectral Projections** [[arxiv]]() <br>
 <span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
 
 * **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
