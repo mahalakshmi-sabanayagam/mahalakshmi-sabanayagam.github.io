@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * **Analysis of Convolutions, Non-linearity and Depth in
-Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
+Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
 _Transactions on Machine Learning Research (TMLR) 2023_
