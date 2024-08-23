@@ -4,6 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
+<span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
+_Journal of Statistical Mechanics: Theory and Experiment (JSTAT Lecture Notes) 2024_
+
+
+* **Robust Features Inference: A Test-time Defense using Spectral Projections** [[arxiv]](https://arxiv.org/pdf/2307.11672.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr24_rfi.pdf) [[code]](https://github.com/Anurag14/RFI) <br>
+<span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
+_Transactions on Machine Learning Research (TMLR) 2024_
+
+* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens\*, Urte Adomaityte, Anna Dawid </span><br>
+_Mathematics of Modern Machine Learning Workshop, NeurIPS (M3L NeurIPS) 2023_
+
 * **Analysis of Convolutions, Non-linearity and Depth in
 Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
  <br>
@@ -36,15 +49,12 @@ Hopper Celebration India (GHCI) 2016_
 
 Preprints
 ====
+* **Cluster Specific Representation Learning** <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Omar Al-Dabooni, Pascal Esser </span><br>
 
-* **Robust Features Inference: A Test-time Defense using Spectral Projections** [[arxiv]]() <br>
-<span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
 
-* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens\*, Urte Adomaityte, Anna Dawid </span><br>
-
-* **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
-<span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
+* **Provable robustness of (graph) neural networks against data poisoning and backdoor attacks** [[arxiv]]() <br>
+<span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
 
 * **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
  <br>
