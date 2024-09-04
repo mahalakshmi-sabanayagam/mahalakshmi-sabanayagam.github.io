@@ -14,7 +14,7 @@ _Journal of Statistical Mechanics: Theory and Experiment (JSTAT Lecture Notes) 2
 _Transactions on Machine Learning Research (TMLR) 2024_
 
 * **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens\*, Urte Adomaityte, Anna Dawid </span><br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens, Urte Adomaityte, Anna Dawid </span><br>
 _Mathematics of Modern Machine Learning Workshop, NeurIPS (M3L NeurIPS) 2023_
 
 * **Analysis of Convolutions, Non-linearity and Depth in
@@ -50,7 +50,7 @@ Hopper Celebration India (GHCI) 2016_
 Preprints
 ====
 * **Cluster Specific Representation Learning** <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Omar Al-Dabooni, Pascal Esser </span><br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
 
 
 * **Provable robustness of (graph) neural networks against data poisoning and backdoor attacks** [[arxiv]]() <br>
