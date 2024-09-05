@@ -13,12 +13,12 @@ _Journal of Statistical Mechanics: Theory and Experiment (JSTAT Lecture Notes) 2
 <span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
 _Transactions on Machine Learning Research (TMLR) 2024_
 
-* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/abs/2306.07104) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Freya Behrens, Urte Adomaityte, Anna Dawid </span><br>
+* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/pdf/2306.07104) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Freya Behrens, Urte Adomaityte, Anna Dawid </span><br>
 _Mathematics of Modern Machine Learning Workshop, NeurIPS (M3L NeurIPS) 2023_
 
 * **Analysis of Convolutions, Non-linearity and Depth in
-Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/abs/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
+Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/pdf/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
 _Transactions on Machine Learning Research (TMLR) 2023_
@@ -27,11 +27,11 @@ _Transactions on Machine Learning Research (TMLR) 2023_
 <span style="color:gray;"> Pascal Esser\*, Satyaki Mukherjee\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar </span><br>
 _International Conference on Artificial Intelligence and Statistics (AISTATS) 2023_
 
-* **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** [[arxiv]](https://arxiv.org/abs/2110.04060) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN) <br>
+* **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** [[arxiv]](https://arxiv.org/pdf/2110.04060) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN) <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
 _MLG workshop at European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases  (ECML PKDD 2022)_ 
 
-* <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> [[arxiv]](https://arxiv.org/abs/2110.02722) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr22_graphon_poster.pdf) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
+* <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> [[arxiv]](https://arxiv.org/pdf/2110.02722) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr22_graphon_poster.pdf) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
 _International Conference on Learning Representations (ICLR) 2022_
@@ -53,7 +53,7 @@ Preprints
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
 
 
-* **Provable robustness of (graph) neural networks against data poisoning and backdoor attacks** [[arxiv]]() <br>
+* **Provable robustness of (graph) neural networks against data poisoning and backdoor attacks** [[arxiv]](https://arxiv.org/pdf/2407.10867) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
 
 * **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
