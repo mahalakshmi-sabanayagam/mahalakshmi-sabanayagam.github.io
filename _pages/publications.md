@@ -52,6 +52,8 @@ Preprints
 * **Cluster Specific Representation Learning** <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
 
+* **Exact Certification of (graph) neural networks against label poisoning** <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
 
 * **Provable robustness of (graph) neural networks against data poisoning and backdoor attacks** [[arxiv]](https://arxiv.org/pdf/2407.10867) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
