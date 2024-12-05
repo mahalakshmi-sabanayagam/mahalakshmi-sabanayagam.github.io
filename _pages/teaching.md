@@ -13,6 +13,10 @@ I am/have been a teaching assistant or student tutor for the following courses.
 * Efficient Algorithms & Data Structures (WS 2020/21)
 
 # Talks
+* 13.11.2024: *Robustness Certificates for (Graph) Neural Networks against Data Poisoning* at SACT seminar at Algorithms group University of Sydney
+* 30.10.2024: *Exact Certification of (Graph) Neural Networks against Label Poisoning* at StatML seminar at Data61, CSIRO
+* 17.10.2024: *Exact Certification of (Graph) Neural Networks against Label Poisoning* at Math seminar at University of Sydney
+* 12.09.2024: *Provable robustness of (graph) neural networks against data poisoning* at FunML seminar at Data61, CSIRO Sydney
 * 18.07.2024: *Provable robustness of (graph) neural networks against data poisoning and backdoor attacks* at MDSI Focus Topic Interconnect seminar
 * 28.11.2023: *AI4BuildingESG Breaking into the
 Black Box of ESG in the Building Sector: A Machine Learning Approach* at Georg Nemetschek Institute General Assembly
