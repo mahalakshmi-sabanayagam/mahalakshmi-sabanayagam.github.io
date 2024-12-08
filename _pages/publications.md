@@ -4,9 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867)[[code]](https://github.com/saper0/qpcert) <br>
+\* Equal contribution
+
+* **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[code]](https://github.com/saper0/qpcert) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
-_New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ 
+_New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral, Best Paper Award** </span>
 
 * **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
 <span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
@@ -62,5 +64,3 @@ Preprints
 * **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik </span><br>
-
-\* Equal contribution
