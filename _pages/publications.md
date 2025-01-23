@@ -6,6 +6,10 @@ author_profile: true
 ---
 \* Equal contribution
 
+* **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537)<br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
+_International Conference on Learning Representations (ICLR) 2025_ <br>
+
 * **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[code]](https://github.com/saper0/qpcert) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
 _New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral, Best Paper Award** </span>
@@ -27,7 +31,7 @@ _Mathematics of Modern Machine Learning Workshop, NeurIPS (M3L NeurIPS) 2023_
 Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/pdf/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
  <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
-_Transactions on Machine Learning Research (TMLR) 2023_, also at _Learning on Graphs (LoG) Meetup at Munich 2023_
+_Transactions on Machine Learning Research (TMLR) 2023_ <br> _Learning on Graphs (LoG) Meetup at Munich 2023_
 
 * **Improved Representation Learning Through Tensorized Autoencoders** [[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/aistats23_tae_poster.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder) <br> 
 <span style="color:gray;"> Pascal Esser\*, Satyaki Mukherjee\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar </span><br>
@@ -49,17 +53,13 @@ _Journal of Soft Computing 2019_
 
 * **Cross Domain Sentiment Analysis Using Different Machine Learning Techniques** [[springer]](https://link.springer.com/chapter/10.1007/978-3-319-27212-2_7) <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Sivasankar Elango </span> <br>
-_Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015 and as poster in Grace
-Hopper Celebration India (GHCI) 2016_
+_Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015_ <br> _Poster in Grace Hopper Celebration India (GHCI) 2016_
 
 
 Preprints
 ====
 * **Cluster Specific Representation Learning** [[arxiv]](https://arxiv.org/pdf/2412.03471) <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
-
-* **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537)<br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
 
 * **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
  <br>
