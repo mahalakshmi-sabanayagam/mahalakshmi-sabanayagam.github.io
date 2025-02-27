@@ -58,6 +58,8 @@ _Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015_ <br>
 
 Preprints
 ====
+* **Generalization Certificates for Adversarially Robust Bayesian Linear Regression** [[arxiv]](https://arxiv.org/pdf/2502.14298) <br>
+<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Russell Tsuchida, Cheng Soon Ong, Debarghya Ghoshdastidar </span><br>
 
 * **Cluster Specific Representation Learning** [[arxiv]](https://arxiv.org/pdf/2412.03471) <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
