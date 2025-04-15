@@ -6,9 +6,12 @@ author_profile: true
 ---
 \* Equal contribution
 
-* **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537)<br>
+* **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537) [[code]](https://github.com/saper0/qpcert)<br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
-_International Conference on Learning Representations (ICLR) 2025_ <span style="color: DeepPink"> **Top 5.1%, Spotlight** </span> <br>
+_International Conference on Learning Representations (ICLR) 2025_ <span style="color: DeepPink"> **Top 5.1%, Spotlight**  </span> <br>
+_The VerifAI Workshop, ICLR 2025_ <span style="color: DeepPink"> **Oral** </span>
+
+
 
 * **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[code]](https://github.com/saper0/qpcert) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
