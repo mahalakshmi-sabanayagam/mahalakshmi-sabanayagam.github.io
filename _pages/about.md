@@ -28,6 +28,9 @@ Between my undergraduate and graduate studies, I spent a little over 3 years at 
 table {
     border-collapse: collapse;
 }
+table thead {
+display: none;
+}
 table, th, td {
    border: none;
 }
@@ -37,10 +40,10 @@ blockquote {
 }
 </style>
 
-|                   	|                                                                                                                                                                                                           	|
-|-------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|||
+|--	|--	|
 | April 23 - 28, 2025 | Excited to attend ICLR at Singapore!
 | Feb 19 - 21, 2025 	| Excited to give a talk on  *"Certifying (Graph) Neural Networks against Data Poisoning using the Neural Tangent Kernel"* at [understanding generalization in deep learning](https://www.math.cit.tum.de/math/forschung/gruppen/data-science/events/understanding-generalization-in-deep-learning/) workshop at Burghausen! 	|
 | Feb 11, 2025      	| Our paper [Exact Certification of (Graph) Neural Networks Against Label Poisoning](https://arxiv.org/pdf/2412.00537) got accepted as a **Spotlight** (top 5.1%) at ICLR 2025  🎉           	|
-| Dec 5 , 2024 | Our paper [Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2407.10867) won the **best paper award** at [AdvML-Frontiers@NeurIPS 2024](https://advml-frontier.github.io/) 🎉 |
+| Dec 5, 2024 | Our paper [Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2407.10867) won the **best paper award** at [AdvML-Frontiers@NeurIPS 2024](https://advml-frontier.github.io/) 🎉 |
 | Nov 4, 2024| Won 3rd price in EMCR talk at [AI in Science Conference 2024](https://www.anu.edu.au/events/ai-in-science), Canberra 🏆 |
