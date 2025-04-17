@@ -22,7 +22,7 @@ Between my undergraduate and graduate studies, I spent a little over 3 years at 
 * Machine learning on graphs
 * Statistical learning theory
 
-**News**
+**Recent News**
 
 <style>
 table {
