@@ -42,15 +42,15 @@ blockquote {
 
 <table>
   <tr>
-    <td>April 23 – 28, 2025</td>
-    <td>Excited to attend ICLR in Singapore!</td>
+    <td>May 15, 2025</td>
+    <td>Excited to give a contributed talk on <a href="https://arxiv.org/pdf/2502.14298">Generalization Certificates for Adversarially Robust Bayesian Linear Regression</a> at the <a href="https://postbayes.github.io/workshop2025/">Advances in post-Bayesian methods workshop</a>, UCL, London, U.K.!</td>
   </tr>
   <tr>
     <td>Feb 19 – 21, 2025</td>
     <td>
       Excited to give a talk on 
       <em>Certifying (Graph) Neural Networks against Data Poisoning using the Neural Tangent Kernel</em> 
-      at <a href="https://www.math.cit.tum.de/math/forschung/gruppen/data-science/events/understanding-generalization-in-deep-learning/">understanding generalization in deep learning</a> workshop at Burghausen!
+      at <a href="https://www.math.cit.tum.de/math/forschung/gruppen/data-science/events/understanding-generalization-in-deep-learning/">understanding generalization in deep learning</a> workshop at Burghausen, Germany!
     </td>
   </tr>
   <tr>
@@ -63,6 +63,6 @@ blockquote {
   </tr>
   <tr>
     <td>Nov 4, 2024</td>
-    <td>Won 3rd price in EMCR talk at <em><a href="https://www.anu.edu.au/events/ai-in-science">AI in Science Conference 2024</a></em>, Canberra 🏆</td>
+    <td>Won 3rd price in EMCR talk at <em><a href="https://www.anu.edu.au/events/ai-in-science">AI in Science Conference 2024</a></em>, Canberra, Australia 🏆</td>
   </tr>
 </table>
