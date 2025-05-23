@@ -15,6 +15,7 @@ _The VerifAI Workshop, ICLR 2025_ <span style="color: DeepPink"> **Oral** </span
 
 * **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[code]](https://github.com/saper0/qpcert) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
+_Transactions on Machine Learning Research (TMLR) 2025_ <br>
 _New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral, Best Paper Award** </span>
 
 * **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 

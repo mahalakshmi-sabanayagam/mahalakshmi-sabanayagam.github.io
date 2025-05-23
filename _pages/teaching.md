@@ -13,6 +13,7 @@ I am/have been a teaching assistant or student tutor for the following courses.
 * Efficient Algorithms & Data Structures (WS 2020/21)
 
 # Talks
+* 15.05.2025: *Generalization Certificates for Adversarially Robust Bayesian Linear Regression* at Advances in post-Bayesian methods workshop, UCL, London, U.K.
 * 21.02.2025: *Certifying (Graph) Neural Networks against Data Poisoning using the Neural Tangent Kernel* at Understanding Generalization in Deep Learning workshop at Raitenhaslach, Germany
 * 13.11.2024: *Robustness Certificates for (Graph) Neural Networks against Data Poisoning* at SACT seminar at Algorithms group University of Sydney
 * 30.10.2024: *Exact Certification of (Graph) Neural Networks against Label Poisoning* at StatML seminar at Data61, CSIRO
