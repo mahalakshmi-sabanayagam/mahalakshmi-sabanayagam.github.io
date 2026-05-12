@@ -6,17 +6,25 @@ author_profile: true
 ---
 \* Equal contribution
 
+* **Robustness Certificates for Neural Networks against Data Poisoning and Evasion Attacks** [[arxiv]](https://arxiv.org/pdf/2512.20865v1) <br>
+<span style="color:gray;"> Sara Taheri, **Mahalakshmi Sabanayagam**,  Debarghya Ghoshdastidar, Majid Zamani </span><br>
+_IEEE Open Journal of Control Systems, Special Section: Intersection of Machine Learning with Control, 2026_
+
+* **Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2604.11416) <br>
+<span style="color:gray;"> Ajinkya Mohgaonkar, Lukas Gosch, **Mahalakshmi Sabanayagam**, Debarghya Ghoshdastidar,  Stephan Günnemann </span><br>
+_The Trustworthy AI Workshop, ICLR 2026_ <span style="color: DeepPink"> **Spotlight (top 6.4%)** </span>
+
 * **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr25_labelcert.pdf) [[code]](https://github.com/saper0/qpcert)<br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
-_International Conference on Learning Representations (ICLR) 2025_ <span style="color: DeepPink"> **Top 5.1%, Spotlight**  </span> <br>
+_International Conference on Learning Representations (ICLR) 2025_ <span style="color: DeepPink"> **Spotlight (top 5.1%)**  </span> <br>
 _The VerifAI Workshop, ICLR 2025_ <span style="color: DeepPink"> **Oral** </span>
 
 
 
-* **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[code]](https://github.com/saper0/qpcert) <br>
+* **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[video]](https://www.youtube.com/watch?v=joXb-uKsj2w) [[code]](https://github.com/saper0/qpcert) <br>
 <span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
 _Transactions on Machine Learning Research (TMLR) 2025_ <br>
-_New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral, Best Paper Award** </span>
+_New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral and Best Paper Award** </span>
 
 * **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
 <span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
@@ -62,6 +70,9 @@ _Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015_ <br>
 
 Preprints
 ====
+* **Exact Generalisation Error Exposes Benchmarks Skew Graph Neural Networks Success (or Failure)** [[arxiv]](https://arxiv.org/pdf/2509.10337) <br>
+<span style="color:gray;"> Nil Ayday, **Mahalakshmi Sabanayagam**, Debarghya Ghoshdastidar </span><br>
+
 * **Generalization Certificates for Adversarially Robust Bayesian Linear Regression** [[arxiv]](https://arxiv.org/pdf/2502.14298) <br>
 <span style="color:gray;"> **Mahalakshmi Sabanayagam**, Russell Tsuchida, Cheng Soon Ong, Debarghya Ghoshdastidar </span><br>
 
