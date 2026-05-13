@@ -47,7 +47,7 @@ blockquote {
   </tr>
   <tr>
     <td>April 15, 2026</td>
-    <td>Out paper <a href="https://arxiv.org/pdf/2604.11416">Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning</a> got awarded a <strong>Spotlight</strong> (top 6.4%) at Trustworthy AI Workshop, ICLR 2026 🎉</td>
+    <td>Our paper <a href="https://arxiv.org/pdf/2604.11416">Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning</a> got awarded a <strong>Spotlight</strong> (top 6.4%) at Trustworthy AI Workshop, ICLR 2026 🎉</td>
   </tr>
   <tr>
     <td>Feb 2, 2026</td>
