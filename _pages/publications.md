@@ -10,7 +10,7 @@ author_profile: true
 <span style="color:gray;"> Sara Taheri, **Mahalakshmi Sabanayagam**,  Debarghya Ghoshdastidar, Majid Zamani </span><br>
 _IEEE Open Journal of Control Systems, Special Section: Intersection of Machine Learning with Control, 2026_
 
-* **Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2604.11416) <br>
+* **Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2604.11416) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr26_trustworthyAI_ensembleCert.pdf) <br>
 <span style="color:gray;"> Ajinkya Mohgaonkar, Lukas Gosch, **Mahalakshmi Sabanayagam**, Debarghya Ghoshdastidar,  Stephan Günnemann </span><br>
 _The Trustworthy AI Workshop, ICLR 2026_ <span style="color: DeepPink"> **Spotlight (top 6.4%)** </span>
 
