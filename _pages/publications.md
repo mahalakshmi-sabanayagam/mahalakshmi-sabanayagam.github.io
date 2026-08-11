@@ -4,81 +4,136 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* Equal contribution
 
-* **Robustness Certificates for Neural Networks against Data Poisoning and Evasion Attacks** [[arxiv]](https://arxiv.org/pdf/2512.20865v1) <br>
-<span style="color:gray;"> Sara Taheri, **Mahalakshmi Sabanayagam**,  Debarghya Ghoshdastidar, Majid Zamani </span><br>
-_IEEE Open Journal of Control Systems, Special Section: Intersection of Machine Learning with Control, 2026_
+<div class="publications-page">
 
-* **Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2604.11416) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr26_trustworthyAI_ensembleCert.pdf) <br>
-<span style="color:gray;"> Ajinkya Mohgaonkar, Lukas Gosch, **Mahalakshmi Sabanayagam**, Debarghya Ghoshdastidar,  Stephan Günnemann </span><br>
-_The Trustworthy AI Workshop, ICLR 2026_ <span style="color: DeepPink"> **Spotlight (top 6.4%)** </span>
+  <p class="pub-note"><sup>*</sup> Equal contribution</p>
 
-* **Exact Certification of (Graph) Neural Networks Against Label Poisoning** [[arxiv]](https://arxiv.org/pdf/2412.00537) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr25_labelcert.pdf) [[code]](https://github.com/saper0/qpcert)<br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**\*, Lukas Gosch\*, Stephan Günnemann, Debarghya Ghoshdastidar </span><br>
-_International Conference on Learning Representations (ICLR) 2025_ <span style="color: DeepPink"> **Spotlight (top 5.1%)**  </span> <br>
-_The VerifAI Workshop, ICLR 2025_ <span style="color: DeepPink"> **Oral** </span>
+  {% assign grouped_publications = site.data.publications.publications | group_by: "year" %}
+
+  {% for group in grouped_publications %}
+    <section class="pub-year-section">
+
+      <h2 class="pub-year">{{ group.name }}</h2>
+
+      <div class="pub-list">
+        {% for pub in group.items %}
+
+          <article class="publication-card">
+
+            <h3 class="pub-title">
+              {{ pub.title }}
+            </h3>
+
+            <div class="pub-authors">
+              {{ pub.authors }}
+            </div>
+
+            <div class="pub-details">
+
+              {% for venue in pub.venues %}
+                <div class="pub-meta-row">
+
+                  <span
+                    class="pub-venue"
+                    {% if venue.full %}
+                    title="{{ venue.full }}"
+                    {% endif %}
+                  >
+                    {{ venue.label }}
+                  </span>
+
+                  {% if venue.highlights %}
+                    {% for highlight in venue.highlights %}
+                      <span class="pub-highlight pub-highlight--{{ highlight.type }}">
+                        {% if highlight.type == "spotlight" or highlight.type == "award" %}
+                          <i class="fas fa-star" aria-hidden="true"></i>
+                        {% endif %}
+                        {{ highlight.label }}
+                      </span>
+                    {% endfor %}
+                  {% endif %}
+
+                  {% if forloop.first and pub.links %}
+                    <span class="pub-links">
+                      {% for link in pub.links %}
+                        <a
+                          class="pub-action"
+                          href="{{ link.url }}"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {% if link.icon %}
+                            <i class="{{ link.icon }}" aria-hidden="true"></i>
+                          {% endif %}
+                          {{ link.label }}
+                        </a>
+                      {% endfor %}
+                    </span>
+                  {% endif %}
+
+                </div>
+              {% endfor %}
+
+            </div>
+
+          </article>
+
+        {% endfor %}
+      </div>
+
+    </section>
+  {% endfor %}
 
 
+  <section class="pub-preprints">
 
-* **Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors** [[arxiv]](https://arxiv.org/pdf/2407.10867) [[video]](https://www.youtube.com/watch?v=joXb-uKsj2w) [[code]](https://github.com/saper0/qpcert) <br>
-<span style="color:gray;"> Lukas Gosch\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar, Stephan Günnemann </span><br>
-_Transactions on Machine Learning Research (TMLR) 2025_ <br>
-_New Frontiers of Adversarial Machine Learning Workshop, NeurIPS (AdvML-Frontiers NeurIPS) 2024_ <span style="color: DeepPink"> **Oral and Best Paper Award** </span>
+    <h2 class="pub-section-title">Preprints</h2>
 
-* **Kernels, Data & Physics** [[arxiv]](https://arxiv.org/pdf/2307.02693.pdf) <br> 
-<span style="color:gray;"> Francesco Cagnetta, Deborah Oliveira, **Mahalakshmi Sabanayagam**, Nikolaos Tsilivis, Julia Kempe </span><br>
-_Journal of Statistical Mechanics: Theory and Experiment (JSTAT Lecture Notes) 2024_
+    <div class="pub-list">
+      {% for pub in site.data.publications.preprints %}
 
+        <article class="publication-card publication-card--preprint">
 
-* **Robust Features Inference: A Test-time Defense using Spectral Projections** [[arxiv]](https://arxiv.org/pdf/2307.11672.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr24_rfi.pdf) [[code]](https://github.com/Anurag14/RFI) <br>
-<span style="color:gray;"> Anurag Singh\*, **Mahalakshmi Sabanayagam**\*, Krikamol Muandet, Debarghya Ghoshdastidar </span><br>
-_Transactions on Machine Learning Research (TMLR) 2024_
+          <h3 class="pub-title">
+            {{ pub.title }}
+          </h3>
 
-* **Unveiling the Hessian's Connection to the Decision Boundary** [[arxiv]](https://arxiv.org/pdf/2306.07104) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf) [[code]](https://github.com/Shmoo137/Hessian-and-Decision-Boundary) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Freya Behrens, Urte Adomaityte, Anna Dawid </span><br>
-_Mathematics of Modern Machine Learning Workshop, NeurIPS (M3L NeurIPS) 2023_
+          <div class="pub-authors">
+            {{ pub.authors }}
+          </div>
 
-* **Analysis of Convolutions, Non-linearity and Depth in
-Graph Neural Networks using Neural Tangent Kernel** [[arxiv]](https://arxiv.org/pdf/2210.09809) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)
- <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span><br>
-_Transactions on Machine Learning Research (TMLR) 2023_ <br> _Learning on Graphs (LoG) Meetup at Munich 2023_
+          <div class="pub-meta-row">
 
-* **Improved Representation Learning Through Tensorized Autoencoders** [[arxiv]](https://arxiv.org/pdf/2212.01046.pdf) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/aistats23_tae_poster.pdf) [[code]](https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder) <br> 
-<span style="color:gray;"> Pascal Esser\*, Satyaki Mukherjee\*, **Mahalakshmi Sabanayagam**\*, Debarghya Ghoshdastidar </span><br>
-_International Conference on Artificial Intelligence and Statistics (AISTATS) 2023_
+            <span class="pub-venue pub-venue--preprint">
+              Preprint
+            </span>
 
-* **Analysis of Graph Convolutional Networks using Neural Tangent Kernels** [[arxiv]](https://arxiv.org/pdf/2110.04060) [[code]](https://github.com/mahalakshmi-sabanayagam/NTK_GCN) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Pascal Esser, Debarghya Ghoshdastidar </span> <br>
-_MLG workshop at European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases  (ECML PKDD 2022)_ 
+            {% if pub.links %}
+              <span class="pub-links">
+                {% for link in pub.links %}
+                  <a
+                    class="pub-action"
+                    href="{{ link.url }}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {% if link.icon %}
+                      <i class="{{ link.icon }}" aria-hidden="true"></i>
+                    {% endif %}
+                    {{ link.label }}
+                  </a>
+                {% endfor %}
+              </span>
+            {% endif %}
 
-* <span style="font-weight:bold">Graphon based Clustering and Testing of Networks: Algorithms and Theory</span> [[arxiv]](https://arxiv.org/pdf/2110.02722) [[poster]](https://mahalakshmi-sabanayagam.github.io/files/iclr22_graphon_poster.pdf) [[code]](https://github.com/maha-93/Clustering-Testing-Networks)
- <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Leena Chennuru Vankadara, Debarghya Ghoshdastidar </span>  <br>
-_International Conference on Learning Representations (ICLR) 2022_
+          </div>
 
-* **Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted
-Boosting Ensemble Method** [[springer]](https://link.springer.com/article/10.1007/s00500-019-04167-0)  <br>
-<span style="color:gray;"> Sivasankar Elango, Selvi Chandran, **Mahalakshmi Sabanayagam** </span> <br>
-_Journal of Soft Computing 2019_
+        </article>
 
-* **Cross Domain Sentiment Analysis Using Different Machine Learning Techniques** [[springer]](https://link.springer.com/chapter/10.1007/978-3-319-27212-2_7) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Sivasankar Elango </span> <br>
-_Fifth International Conference on Fuzzy and Neuro Computing (FANCCO) 2015_ <br> _Poster in Grace Hopper Celebration India (GHCI) 2016_
+      {% endfor %}
+    </div>
 
+  </section>
 
-Preprints
-====
-* **Exact Generalisation Error Exposes Benchmarks Skew Graph Neural Networks Success (or Failure)** [[arxiv]](https://arxiv.org/pdf/2509.10337) <br>
-<span style="color:gray;"> Nil Ayday, **Mahalakshmi Sabanayagam**, Debarghya Ghoshdastidar </span><br>
-
-* **Generalization Certificates for Adversarially Robust Bayesian Linear Regression** [[arxiv]](https://arxiv.org/pdf/2502.14298) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Russell Tsuchida, Cheng Soon Ong, Debarghya Ghoshdastidar </span><br>
-
-* **Cluster Specific Representation Learning** [[arxiv]](https://arxiv.org/pdf/2412.03471) <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Omar Al-Dabooni, Pascal Esser </span><br>
-
-* **Machine learning-based image detection for lensless microscopy in life science** [[link]](https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf)
- <br>
-<span style="color:gray;"> **Mahalakshmi Sabanayagam**, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik </span><br>
+</div>

@@ -1,0 +1,234 @@
+publications:
+
+  - year: 2026
+    title: "Robustness Certificates for Neural Networks against Data Poisoning and Evasion Attacks"
+    authors: 'Sara Taheri, <strong>Mahalakshmi Sabanayagam</strong>, Debarghya Ghoshdastidar, Majid Zamani'
+    venues:
+      - label: "IEEE OJCS 2026"
+        full: "IEEE Open Journal of Control Systems, Special Section: Intersection of Machine Learning with Control"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2512.20865v1"
+        icon: "fas fa-file-alt"
+
+  - year: 2026
+    title: "Exact Certification of Neural Networks and Partition Aggregation Ensembles against Label Poisoning"
+    authors: 'Ajinkya Mohgaonkar, Lukas Gosch, <strong>Mahalakshmi Sabanayagam</strong>, Debarghya Ghoshdastidar, Stephan Günnemann'
+    venues:
+      - label: "Trustworthy AI @ ICLR 2026"
+        highlights:
+          - label: "Spotlight · top 6.4%"
+            type: "spotlight"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2604.11416"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/iclr26_trustworthyAI_ensembleCert.pdf"
+        icon: "fas fa-image"
+
+  - year: 2025
+    title: "Exact Certification of (Graph) Neural Networks Against Label Poisoning"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong><sup>*</sup>, Lukas Gosch<sup>*</sup>, Stephan Günnemann, Debarghya Ghoshdastidar'
+    venues:
+      - label: "ICLR 2025"
+        highlights:
+          - label: "Spotlight · top 5.1%"
+            type: "spotlight"
+      - label: "VerifAI @ ICLR 2025"
+        highlights:
+          - label: "Oral"
+            type: "oral"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2412.00537"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/iclr25_labelcert.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/saper0/qpcert"
+        icon: "fab fa-github"
+
+  - year: 2025
+    title: "Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors"
+    authors: 'Lukas Gosch<sup>*</sup>, <strong>Mahalakshmi Sabanayagam</strong><sup>*</sup>, Debarghya Ghoshdastidar, Stephan Günnemann'
+    venues:
+      - label: "TMLR 2025"
+      - label: "AdvML Frontiers @ NeurIPS 2024"
+        highlights:
+          - label: "Best Paper"
+            type: "award"
+          - label: "Oral"
+            type: "oral"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2407.10867"
+        icon: "fas fa-file-alt"
+      - label: "Video"
+        url: "https://www.youtube.com/watch?v=joXb-uKsj2w"
+        icon: "fab fa-youtube"
+      - label: "Code"
+        url: "https://github.com/saper0/qpcert"
+        icon: "fab fa-github"
+
+  - year: 2024
+    title: "Kernels, Data & Physics"
+    authors: 'Francesco Cagnetta, Deborah Oliveira, <strong>Mahalakshmi Sabanayagam</strong>, Nikolaos Tsilivis, Julia Kempe'
+    venues:
+      - label: "JSTAT 2024"
+        full: "Journal of Statistical Mechanics: Theory and Experiment, Lecture Notes"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2307.02693.pdf"
+        icon: "fas fa-file-alt"
+
+  - year: 2024
+    title: "Robust Features Inference: A Test-time Defense using Spectral Projections"
+    authors: 'Anurag Singh<sup>*</sup>, <strong>Mahalakshmi Sabanayagam</strong><sup>*</sup>, Krikamol Muandet, Debarghya Ghoshdastidar'
+    venues:
+      - label: "TMLR 2024"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2307.11672.pdf"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/tmlr24_rfi.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/Anurag14/RFI"
+        icon: "fab fa-github"
+
+  - year: 2023
+    title: "Unveiling the Hessian's Connection to the Decision Boundary"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Freya Behrens, Urte Adomaityte, Anna Dawid'
+    venues:
+      - label: "M3L @ NeurIPS 2023"
+        full: "Mathematics of Modern Machine Learning Workshop"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2306.07104"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/m3l_hessian.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/Shmoo137/Hessian-and-Decision-Boundary"
+        icon: "fab fa-github"
+
+  - year: 2023
+    title: "Analysis of Convolutions, Non-linearity and Depth in Graph Neural Networks using Neural Tangent Kernel"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Pascal Esser, Debarghya Ghoshdastidar'
+    venues:
+      - label: "TMLR 2023"
+      - label: "Learning on Graphs Meetup · Munich 2023"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2210.09809"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/tmlr23_gntk.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/mahalakshmi-sabanayagam/NTK_GCN"
+        icon: "fab fa-github"
+
+  - year: 2023
+    title: "Improved Representation Learning Through Tensorized Autoencoders"
+    authors: 'Pascal Esser<sup>*</sup>, Satyaki Mukherjee<sup>*</sup>, <strong>Mahalakshmi Sabanayagam</strong><sup>*</sup>, Debarghya Ghoshdastidar'
+    venues:
+      - label: "AISTATS 2023"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2212.01046.pdf"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/aistats23_tae_poster.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/mahalakshmi-sabanayagam/tensorized_autoencoder"
+        icon: "fab fa-github"
+
+  - year: 2022
+    title: "Analysis of Graph Convolutional Networks using Neural Tangent Kernels"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Pascal Esser, Debarghya Ghoshdastidar'
+    venues:
+      - label: "MLG @ ECML PKDD 2022"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2110.04060"
+        icon: "fas fa-file-alt"
+      - label: "Code"
+        url: "https://github.com/mahalakshmi-sabanayagam/NTK_GCN"
+        icon: "fab fa-github"
+
+  - year: 2022
+    title: "Graphon based Clustering and Testing of Networks: Algorithms and Theory"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Leena Chennuru Vankadara, Debarghya Ghoshdastidar'
+    venues:
+      - label: "ICLR 2022"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2110.02722"
+        icon: "fas fa-file-alt"
+      - label: "Poster"
+        url: "https://mahalakshmi-sabanayagam.github.io/files/iclr22_graphon_poster.pdf"
+        icon: "fas fa-image"
+      - label: "Code"
+        url: "https://github.com/maha-93/Clustering-Testing-Networks"
+        icon: "fab fa-github"
+
+  - year: 2019
+    title: "Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted Boosting Ensemble Method"
+    authors: 'Sivasankar Elango, Selvi Chandran, <strong>Mahalakshmi Sabanayagam</strong>'
+    venues:
+      - label: "Soft Computing 2019"
+    links:
+      - label: "Paper"
+        url: "https://link.springer.com/article/10.1007/s00500-019-04167-0"
+        icon: "fas fa-file-alt"
+
+  - year: 2015
+    title: "Cross Domain Sentiment Analysis Using Different Machine Learning Techniques"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Sivasankar Elango'
+    venues:
+      - label: "FANCCO 2015"
+      - label: "Grace Hopper Celebration India 2016"
+        highlights:
+          - label: "Poster"
+            type: "oral"
+    links:
+      - label: "Paper"
+        url: "https://link.springer.com/chapter/10.1007/978-3-319-27212-2_7"
+        icon: "fas fa-file-alt"
+
+
+preprints:
+
+  - title: "Exact Generalisation Error Exposes Benchmarks Skew Graph Neural Networks Success (or Failure)"
+    authors: 'Nil Ayday, <strong>Mahalakshmi Sabanayagam</strong>, Debarghya Ghoshdastidar'
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2509.10337"
+        icon: "fas fa-file-alt"
+
+  - title: "Generalization Certificates for Adversarially Robust Bayesian Linear Regression"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Russell Tsuchida, Cheng Soon Ong, Debarghya Ghoshdastidar'
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2502.14298"
+        icon: "fas fa-file-alt"
+
+  - title: "Cluster Specific Representation Learning"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Omar Al-Dabooni, Pascal Esser'
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2412.03471"
+        icon: "fas fa-file-alt"
+
+  - title: "Machine learning-based image detection for lensless microscopy in life science"
+    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik'
+    links:
+      - label: "Paper"
+        url: "https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf"
+        icon: "fas fa-file-alt"
