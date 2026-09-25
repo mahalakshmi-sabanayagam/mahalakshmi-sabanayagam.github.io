@@ -42,9 +42,13 @@ blockquote {
 <!-- Top 5 only -->
 <table>
   <tr>
+        <td>Sep 25, 2026</td>
+        <td>Our paper <a href="https://arxiv.org/pdf/2605.25880">The Quantization Benefits of Residual-Free Transformers</a> got accepted at NeurIPS 2026 🎉 </td>
+  </tr>
+  <tr>
       <td>May 14, 2026</td>
       <td>Received <strong>Gold Reviewer Award </strong> from ICML 2026 🏆</td>
-    </tr>
+  </tr>
   <tr>
     <td>April 29, 2026</td>
     <td><a href="https://arxiv.org/pdf/2512.20865v1">Robustness certificates for neural networks against data poisoning and evasion attacks</a> got accepted at IEEE Open Journal of Control Systems</td>

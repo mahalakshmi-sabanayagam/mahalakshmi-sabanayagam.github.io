@@ -1,4 +1,19 @@
 publications:
+  - year: 2026
+    title: "The Quantization Benefits of Residual-Free Transformers"
+    authors: 'Yiping Ji<sup>*</sup>, <strong>Mahalakshmi Sabanayagam</strong><sup>*</sup>, Peyman Moghadam, Hemanth Saratchandran, Simon Lucey'
+    venues:
+      - label: "NeurIPS 2026"
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/pdf/2605.25880"
+        icon: "fas fa-file-alt"
+      # - label: "Poster"
+      #   url: ""
+      #   icon: "fas fa-image"
+      # - label: "Code"
+      #   url: ""
+      #   icon: "fab fa-github"
 
   - year: 2026
     title: "Robustness Certificates for Neural Networks against Data Poisoning and Evasion Attacks"
@@ -57,7 +72,7 @@ publications:
       - label: "TMLR 2025"
       - label: "AdvML Frontiers @ NeurIPS 2024"
         highlights:
-          - label: "Best Paper"
+          - label: "Best Paper Award"
             type: "award"
           - label: "Oral"
             type: "oral"
@@ -219,16 +234,16 @@ preprints:
         url: "https://arxiv.org/pdf/2502.14298"
         icon: "fas fa-file-alt"
 
-  - title: "Cluster Specific Representation Learning"
-    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Omar Al-Dabooni, Pascal Esser'
-    links:
-      - label: "Paper"
-        url: "https://arxiv.org/pdf/2412.03471"
-        icon: "fas fa-file-alt"
+  # - title: "Cluster Specific Representation Learning"
+  #   authors: '<strong>Mahalakshmi Sabanayagam</strong>, Omar Al-Dabooni, Pascal Esser'
+  #   links:
+  #     - label: "Paper"
+  #       url: "https://arxiv.org/pdf/2412.03471"
+  #       icon: "fas fa-file-alt"
 
-  - title: "Machine learning-based image detection for lensless microscopy in life science"
-    authors: '<strong>Mahalakshmi Sabanayagam</strong>, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik'
-    links:
-      - label: "Paper"
-        url: "https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf"
-        icon: "fas fa-file-alt"
+  # - title: "Machine learning-based image detection for lensless microscopy in life science"
+  #   authors: '<strong>Mahalakshmi Sabanayagam</strong>, Jan Brunckhorst, Andreas Pirchner, Nikhitha Radhakrishna Naik'
+  #   links:
+  #     - label: "Paper"
+  #       url: "https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/LMU_-_TUM-DI-LAB_Final_Documentation_SS19.pdf"
+  #       icon: "fas fa-file-alt"
