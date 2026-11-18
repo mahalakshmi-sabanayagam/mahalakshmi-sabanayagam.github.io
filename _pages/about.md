@@ -42,6 +42,10 @@ blockquote {
 <!-- Top 5 only -->
 <table>
   <tr>
+        <td>Nov 12, 2026</td>
+        <td>Awarded the <strong>Best Paper of the Year 2026</strong> for <a href="https://arxiv.org/pdf/2412.00537">Exact Certification of (Graph) Neural Networks Against Label Poisoning</a> from Munich Data Science Institute 🏆 </td>
+  </tr>
+  <tr>
         <td>Sep 25, 2026</td>
         <td>Our paper <a href="https://arxiv.org/pdf/2605.25880">The Quantization Benefits of Residual-Free Transformers</a> got accepted at NeurIPS 2026 🎉 </td>
   </tr>

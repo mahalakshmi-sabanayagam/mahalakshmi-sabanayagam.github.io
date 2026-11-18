@@ -11,9 +11,9 @@ publications:
       # - label: "Poster"
       #   url: ""
       #   icon: "fas fa-image"
-      # - label: "Code"
-      #   url: ""
-      #   icon: "fab fa-github"
+      - label: "Code"
+        url: "https://github.com/yipingji/residual-free-quantization"
+        icon: "fab fa-github"
 
   - year: 2026
     title: "Robustness Certificates for Neural Networks against Data Poisoning and Evasion Attacks"
@@ -50,6 +50,8 @@ publications:
         highlights:
           - label: "Spotlight · top 5.1%"
             type: "spotlight"
+          - label: "MDSI Best Paper of the Year 2026 Award"
+            type: "award"
       - label: "VerifAI @ ICLR 2025"
         highlights:
           - label: "Oral"
